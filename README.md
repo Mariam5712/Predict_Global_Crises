@@ -66,7 +66,9 @@
 	
 	**step 2:
 	
-	Donwload the zipped file export_333417696.tar.gz in the src folder
+	Using getPatenaries.ipynb to obtain the countries of import and export of the Ivory Coast, we obtain civ2010export_and_final_value.csv and civ2010import_and_final_value.csv. We can also get the partners of the partners of a country forming a graph.
+	
+	Donwload the zipped file crise_prediction.tar.gz in the src folder
 	
 	pload it on tgcloud.io 
 	
