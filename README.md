@@ -49,15 +49,32 @@
 
 # Installation
 
+  	**step 1:
+	
 	Clone repository
-
-	Donwload the zipped file .... in the src folder
-
+	
+	use the modelCrisis (1).ipynb template to clean up the global_crisis.csv dataset and get the output global_crisis_data_clean_final_2.csv 
+	
+	Donwload the zipped file export_333417696.tar.gz in the src folder
+	
+	
 	Upload it on tgcloud.io
 
-	load the csv file .... and ... located in the src folder
+	load the csv file global_crisis_data_clean_final_2.csv located in the src folder
 
-	Run Queries such us identifying duplicate articles
+	Run queries such as predicting the crisis of a country with tg_knn_cosine_ss.
+	
+	**step 2:
+	
+	Donwload the zipped file export_333417696.tar.gz in the src folder
+	
+	pload it on tgcloud.io 
+	
+	load the csv file global_crisis_data_clean_final_2.csv, civ2010export_et_valeur_finale.csv, civ2010import_et_valeur_finale.css and paysetcode.csv located in the src folder 
+	
+	Run queries to determine which countries will be impacted if the Ivory Coast is in crisis
+	
+	
 
 # References
 
