@@ -76,6 +76,10 @@
 	
 	Run queries to determine which countries will be impacted if the Ivory Coast is in crisis
 	
+	**step 3:
+	
+	Run all cells of the modelCrisis (1).ipynb model to display the dashboard visualization, the style.css file provides the dashboard formatting.
+	
 	
 
 # References
